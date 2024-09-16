@@ -1,7 +1,6 @@
 # ED2024
 ED 2024 C++
-As estruturas de dados são fundamentais para a programação e permitem organizar e manipular dados de maneira eficiente. Em C++, temos várias estruturas de dados à nossa disposição. Vou destacar algumas delas:
-
+As estruturas de dados são fundamentais para a programação e permitem organizar e manipular dados de maneira eficiente. Em C++, temos várias estruturas de dados à nossa disposição. 
 Lista Sequencial (Vetor):
 Um vetor é uma coleção de elementos do mesmo tipo, organizados em uma sequência contígua de memória.
 Acesso aos elementos por índices.
